@@ -8,7 +8,7 @@
           "location": "Meow Town",
           "date": "28 January 2022",
           "time": "12:00",
-          "petsAllowed": true,
+          "petsAllowed": true
           "organizer": "Foulen Ben Foulen",
         },
         {
@@ -19,7 +19,7 @@
           "location": "Meow Town",
           "date": "28 January 2022",
           "time": "12:00",
-          "petsAllowed": true,
+          "petsAllowed": true
           "organizer": "Foulen Ben Foulen",
         }
       ],
